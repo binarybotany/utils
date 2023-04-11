@@ -17,102 +17,103 @@
 #9c00ff #000000;
 #X obj 119 176 tgl 15 0 empty empty empty 17 7 0 10 #dfdfdf #000000
 #000000 0 1;
-#X obj 53 684 outlet $ts-1;
-#X obj 75 660 spigot;
+#X obj 15 548 outlet $ts-1;
+#X obj 37 524 spigot;
 #X obj 140 196 bng 15 250 50 0 empty empty empty 17 7 0 10 #ffffff
 #9c00ff #000000;
 #X obj 140 176 tgl 15 0 empty empty empty 17 7 0 10 #dfdfdf #000000
 #000000 0 1;
-#X obj 180 659 spigot;
-#X obj 158 683 outlet $ts-2;
+#X obj 142 523 spigot;
+#X obj 120 547 outlet $ts-2;
 #X obj 162 196 bng 15 250 50 0 empty empty empty 17 7 0 10 #ffffff
 #9c00ff #000000;
 #X obj 162 176 tgl 15 0 empty empty empty 17 7 0 10 #dfdfdf #000000
 #000000 0 1;
-#X obj 296 659 spigot;
+#X obj 258 523 spigot;
 #X obj 184 196 bng 15 250 50 0 empty empty empty 17 7 0 10 #ffffff
 #9c00ff #000000;
 #X obj 184 176 tgl 15 0 empty empty empty 17 7 0 10 #dfdfdf #000000
 #000000 0 1;
-#X obj 411 658 spigot;
+#X obj 373 522 spigot;
 #X obj 205 196 bng 15 250 50 0 empty empty empty 17 7 0 10 #ffffff
 #9c00ff #000000;
 #X obj 205 176 tgl 15 0 empty empty empty 17 7 0 10 #dfdfdf #000000
 #000000 0 1;
-#X obj 525 657 spigot;
+#X obj 487 521 spigot;
 #X obj 226 196 bng 15 250 50 0 empty empty empty 17 7 0 10 #ffffff
 #9c00ff #000000;
 #X obj 226 176 tgl 15 0 empty empty empty 17 7 0 10 #dfdfdf #000000
 #000000 0 1;
-#X obj 640 656 spigot;
+#X obj 602 520 spigot;
 #X obj 246 196 bng 15 250 50 0 empty empty empty 17 7 0 10 #ffffff
 #9c00ff #000000;
 #X obj 246 176 tgl 15 0 empty empty empty 17 7 0 10 #dfdfdf #000000
 #000000 0 1;
-#X obj 756 656 spigot;
+#X obj 718 520 spigot;
 #X obj 267 196 bng 15 250 50 0 empty empty empty 17 7 0 10 #ffffff
 #9c00ff #000000;
 #X obj 267 176 tgl 15 0 empty empty empty 17 7 0 10 #dfdfdf #000000
 #000000 0 1;
-#X obj 872 655 spigot;
+#X obj 834 519 spigot;
 #X obj 120 240 bng 15 250 50 0 empty empty empty 17 7 0 10 #ffffff
 #9c00ff #000000;
 #X obj 120 220 tgl 15 0 empty empty empty 17 7 0 10 #dfdfdf #000000
 #000000 0 1;
-#X obj 970 653 spigot;
+#X obj 932 517 spigot;
 #X obj 141 240 bng 15 250 50 0 empty empty empty 17 7 0 10 #ffffff
 #9c00ff #000000;
 #X obj 141 220 tgl 15 0 empty empty empty 17 7 0 10 #dfdfdf #000000
 #000000 0 1;
-#X obj 1075 652 spigot;
+#X obj 1037 516 spigot;
 #X obj 162 240 bng 15 250 50 0 empty empty empty 17 7 0 10 #ffffff
 #9c00ff #000000;
 #X obj 162 220 tgl 15 0 empty empty empty 17 7 0 10 #dfdfdf #000000
 #000000 0 1;
-#X obj 1191 652 spigot;
+#X obj 1153 516 spigot;
 #X obj 184 240 bng 15 250 50 0 empty empty empty 17 7 0 10 #ffffff
 #9c00ff #000000;
 #X obj 184 220 tgl 15 0 empty empty empty 17 7 0 10 #dfdfdf #000000
 #000000 0 1;
-#X obj 1306 651 spigot;
+#X obj 1268 515 spigot;
 #X obj 206 240 bng 15 250 50 0 empty empty empty 17 7 0 10 #ffffff
 #9c00ff #000000;
 #X obj 206 220 tgl 15 0 empty empty empty 17 7 0 10 #dfdfdf #000000
 #000000 0 1;
-#X obj 1420 650 spigot;
+#X obj 1382 514 spigot;
 #X obj 227 240 bng 15 250 50 0 empty empty empty 17 7 0 10 #ffffff
 #9c00ff #000000;
 #X obj 227 220 tgl 15 0 empty empty empty 17 7 0 10 #dfdfdf #000000
 #000000 0 1;
-#X obj 1535 649 spigot;
+#X obj 1497 513 spigot;
 #X obj 248 240 bng 15 250 50 0 empty empty empty 17 7 0 10 #ffffff
 #9c00ff #000000;
 #X obj 248 220 tgl 15 0 empty empty empty 17 7 0 10 #dfdfdf #000000
 #000000 0 1;
-#X obj 1651 649 spigot;
+#X obj 1613 513 spigot;
 #X obj 268 240 bng 15 250 50 0 empty empty empty 17 7 0 10 #ffffff
 #9c00ff #000000;
 #X obj 268 220 tgl 15 0 empty empty empty 17 7 0 10 #dfdfdf #000000
 #000000 0 1;
-#X obj 1767 648 spigot;
+#X obj 1729 512 spigot;
 #X obj 655 310 sel 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15;
-#X obj 274 683 outlet $ts-3;
-#X obj 389 682 outlet $ts-4;
-#X obj 503 681 outlet $ts-5;
-#X obj 618 680 outlet $ts-6;
-#X obj 734 680 outlet $ts-7;
-#X obj 850 679 outlet $ts-8;
-#X obj 948 677 outlet $ts-9;
-#X obj 1053 676 outlet $ts-10;
-#X obj 1169 676 outlet $ts-11;
-#X obj 1284 675 outlet $ts-12;
-#X obj 1398 674 outlet $ts-13;
-#X obj 1513 673 outlet $ts-14;
-#X obj 1629 673 outlet $ts-15;
-#X obj 1745 672 outlet $ts-16;
+#X obj 236 547 outlet $ts-3;
+#X obj 351 546 outlet $ts-4;
+#X obj 465 545 outlet $ts-5;
+#X obj 580 544 outlet $ts-6;
+#X obj 696 544 outlet $ts-7;
+#X obj 812 543 outlet $ts-8;
+#X obj 910 541 outlet $ts-9;
+#X obj 1015 540 outlet $ts-10;
+#X obj 1131 540 outlet $ts-11;
+#X obj 1246 539 outlet $ts-12;
+#X obj 1360 538 outlet $ts-13;
+#X obj 1475 537 outlet $ts-14;
+#X obj 1591 537 outlet $ts-15;
+#X obj 1707 536 outlet $ts-16;
 #X obj 302 13 loadbang;
 #X msg 302 37 130 16;
 #X obj 302 61 unpack float float;
+#X obj 1802 632 outlet $ts-all;
 #X connect 0 0 1 0;
 #X connect 1 0 5 0;
 #X connect 2 0 0 0;
@@ -127,51 +128,67 @@
 #X connect 10 0 7 0;
 #X connect 11 0 10 1;
 #X connect 12 0 14 0;
+#X connect 12 0 80 0;
 #X connect 13 0 15 1;
 #X connect 15 0 12 0;
 #X connect 16 0 19 0;
+#X connect 16 0 80 0;
 #X connect 17 0 18 1;
 #X connect 18 0 16 0;
 #X connect 20 0 63 0;
+#X connect 20 0 80 0;
 #X connect 21 0 22 1;
 #X connect 22 0 20 0;
 #X connect 23 0 64 0;
+#X connect 23 0 80 0;
 #X connect 24 0 25 1;
 #X connect 25 0 23 0;
 #X connect 26 0 65 0;
+#X connect 26 0 80 0;
 #X connect 27 0 28 1;
 #X connect 28 0 26 0;
 #X connect 29 0 66 0;
+#X connect 29 0 80 0;
 #X connect 30 0 31 1;
 #X connect 31 0 29 0;
 #X connect 32 0 67 0;
+#X connect 32 0 80 0;
 #X connect 33 0 34 1;
 #X connect 34 0 32 0;
 #X connect 35 0 68 0;
+#X connect 35 0 80 0;
 #X connect 36 0 37 1;
 #X connect 37 0 35 0;
 #X connect 38 0 69 0;
+#X connect 38 0 80 0;
 #X connect 39 0 40 1;
 #X connect 40 0 38 0;
 #X connect 41 0 70 0;
+#X connect 41 0 80 0;
 #X connect 42 0 43 1;
 #X connect 43 0 41 0;
 #X connect 44 0 71 0;
+#X connect 44 0 80 0;
 #X connect 45 0 46 1;
 #X connect 46 0 44 0;
 #X connect 47 0 72 0;
+#X connect 47 0 80 0;
 #X connect 48 0 49 1;
 #X connect 49 0 47 0;
 #X connect 50 0 73 0;
+#X connect 50 0 80 0;
 #X connect 51 0 52 1;
 #X connect 52 0 50 0;
 #X connect 53 0 74 0;
+#X connect 53 0 80 0;
 #X connect 54 0 55 1;
 #X connect 55 0 53 0;
 #X connect 56 0 75 0;
+#X connect 56 0 80 0;
 #X connect 57 0 58 1;
 #X connect 58 0 56 0;
 #X connect 59 0 76 0;
+#X connect 59 0 80 0;
 #X connect 60 0 61 1;
 #X connect 61 0 59 0;
 #X connect 62 0 15 0;
